@@ -11,7 +11,7 @@ export default function Document() {
         <meta property="og:url" content="https://ironplus.dev" />
         <meta property="og:title" content="Iron Plus - Tools for Powerlifters" />
         <meta property="og:description" content="All the gym calculations you need. RPE Calculator, Kilogram and Pound Converter, and Warm Up Calculator all in one." />
-        <meta property="og:image" content="https://ironplus.dev/IronPlusLogo.png" />
+        <meta property="og:image" content="https://ironplus.dev/IronPlusLogo2-1.png" />
         <meta property="og:image:alt" content="Iron Plus Logo" />
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="website" />
@@ -22,7 +22,7 @@ export default function Document() {
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;700&display=swap" rel="stylesheet" />
-
+        
       </Head>
       <body>
         <Main />
