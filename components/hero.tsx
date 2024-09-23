@@ -15,7 +15,7 @@ export default function Hero() {
                     Tools for Powerlifters
                 </h2>
                 <div className='flex flex-col items-center md:flex-row gap-4'>
-                    <Link href='https://play.google.com/store/apps/details?id=com.napesdotnet.ironplus'>
+                    <Link href='https://play.google.com/store/apps/details?id=com.napesdev.ironplus'>
                         <Image src={googlePlayStore} alt='Download from Apple App Store' width={200} height={59} />
                     </Link>
                     <Link href='https://apps.apple.com/app/id1545857824'>

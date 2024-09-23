@@ -71,13 +71,13 @@ const Home: NextPage = () => {
             </div>
             <div className='max-w-lg flex flex-col'>
               <h1 className="text-5xl font-bold text-center lg:text-justify">Iron Plus</h1>
-              <p className="py-6">All the gym calculations you need. RPE Calculator, Kilogram and Pound Converter, and Warm Up Calculator all in one. Please feel free to reach out to me at napesdotnet@gmail.com or @napier.lifts on Instagram with feedback/feature suggestions!</p>
+              <p className="py-6">All the gym calculations you need. RPE Calculator, Kilogram and Pound Converter, and Warm Up Calculator all in one. Please feel free to reach out to me at travis@napes.dev or @napes.lifts on Instagram with feedback/feature suggestions!</p>
               <div className='flex flex-col items-center md:flex-row gap-4'>
-                <a href='https://play.google.com/store/apps/details?id=com.napesdotnet.ironplus'>
-                  <Image src={googlePlayStore} alt='Download from Apple App Store' width={200} height={59} />
+                <a href='https://play.google.com/store/apps/details?id=com.napesdev.ironplus'>
+                  <Image src={googlePlayStore} alt='Download from Google Play Store' width={200} height={59} />
                 </a>
                 <a href='https://apps.apple.com/app/id1545857824'>
-                  <Image src={appleAppStore} alt='Download from Google Play Store' width={200} height={59} />
+                  <Image src={appleAppStore} alt='Download from Apple App Store' width={200} height={59} />
                 </a>
               </div>
             </div>
